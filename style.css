@@ -1,7 +1,7 @@
 *{
     font-family: 'Outfit', sans-serif;
     font-size: 18px;
-    color: hsl(0, 0%, 100%)
+    color:  hsl(215, 51%, 70%)
     ;
 }
 html body{
@@ -35,11 +35,13 @@ h1{
  font-weight: bold;
  margin-left: 25px;
  font-size: 24px;
+ color: hsl(0, 0%, 100%);
 }
 
 .text{
     text-align: start;
     margin-left: 25px;
+
 
 }
 .container{
